@@ -76,9 +76,8 @@ corrected = np.mod(r + error, 2)
 print("Corrected Codeword :", " ".join(map(str, corrected)))
 ```
 # Output Waveform
-<img width="612" height="722" alt="image" src="https://github.com/user-attachments/assets/d3c6bdb8-f873-4331-b217-e64cba71eeb9" />
+<img width="447" height="675" alt="image" src="https://github.com/user-attachments/assets/41b68253-aa42-4250-a315-40d5d8383aed" />
 
-<img width="563" height="221" alt="image" src="https://github.com/user-attachments/assets/ad10db23-b6e3-43b6-92dd-1269684fb726" />
 
 # Results
 Thus linear block code operation for the given input is successfully verified.
